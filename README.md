@@ -55,7 +55,3 @@ Los datos fueron limpiados y preparados para su análisis en **Python** con bibl
 
 ---
 
-## 📂 **Cómo Usar Este Proyecto**
-1️⃣ Clonar este repositorio:  
-   ```sh
-   git clone https://github.com/tu_usuario/proyecto_churn.git
